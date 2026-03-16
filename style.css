@@ -1372,10 +1372,6 @@ section.sidemenu > nav > ul.items-list > li div.item-icon{
     display: none;
 }
 
-div.webix_view.webix_list.webix_pivot_fields > div {
-    color:#ffffff;
-}
-
 section.sidemenu > nav > ul.items-list > li div.item-label{
     font-size: 14px !important; 
     color: var(--Accent) !important; 
