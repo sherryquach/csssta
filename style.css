@@ -1372,6 +1372,10 @@ section.sidemenu > nav > ul.items-list > li div.item-icon{
     display: none;
 }
 
+.webix_list_item{
+    color:#fff;
+}
+
 section.sidemenu > nav > ul.items-list > li div.item-label{
     font-size: 14px !important; 
     color: var(--Accent) !important; 
