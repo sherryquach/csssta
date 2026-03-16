@@ -2383,6 +2383,11 @@ div[role="menu"] {
 }
 
 /* Menu item styling */
+
+.webix_list_item {
+    color: #fff !important;
+}
+
 .webix_list_item.menu {
     color: var(--W) !important;
     background: transparent !important;
