@@ -2409,7 +2409,7 @@ div[role="menu"] {
     color: var(--T) !important;
 }
 .webix_pivot_fields .webix_list_item {
-color: #ffffff;
+color: #ffffff !important;
 }
 
 /* Submenu icon styling */
