@@ -2410,7 +2410,8 @@ div[role="menu"] {
     background: var(--D1) !important;
     color: var(--T) !important;
 }
-.webix_pivot_fields .webix_list_item {
+
+.webix_list_item {
 color: #ffffff !important;
 }
 
