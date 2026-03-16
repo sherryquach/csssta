@@ -2414,6 +2414,13 @@ div[role="menu"] {
 .webix_list_item {
 color: #ffffff !important;
 }
+.webix_popup.webix_pivot .webix_layout_toolbar.webix_toolbar .webix_secondary button, .webix_pivot_chart_popup .webix_layout_toolbar.webix_toolbar .webix_secondary button{
+    color: #ffffff !important;
+}
+
+body > div.webix_view.webix_window.webix_popup.webix_pivot > div > div.webix_win_head > div > div > div.webix_view.webix_control.webix_el_label > div{
+    color: #ffffff !important;
+}
 
 /* Submenu icon styling */
 .webix_submenu_icon {
