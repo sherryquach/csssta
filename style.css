@@ -9,9 +9,7 @@ section.content{
 section.content > #dash-header{
     display: none !important;
 }
-body > div.webix_view.webix_window.webix_popup.webix_pivot > div > div.webix_win_body > div > div > div.webix_view.webix_layout_line > div.webix_view.webix_list.webix_pivot_fields{
-    color:#fff !important;
-}
+
 
 @import url('https://cx.stax.ai/fonts/Averta');
 
@@ -2409,10 +2407,6 @@ div[role="menu"] {
 .webix_list_item.menu.webix_marked {
     background: var(--D1) !important;
     color: var(--T) !important;
-}
-
-.webix_list_item {
-color: #ffffff !important;
 }
 
 /* Submenu icon styling */
